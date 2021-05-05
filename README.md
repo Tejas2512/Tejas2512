@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejas Dadhaniya
+- 👋 Hi, I’m Tejas Dadhaniya
 - 👀 I’m interested in Machine learning and computer vision
 - 🌱 I’m currently learning ML,DL,and CV
 - 💞️ I’m looking to collaborate on ML projects
